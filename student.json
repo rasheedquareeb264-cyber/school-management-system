@@ -1,0 +1,16 @@
+[
+    {
+        "student_id":"ST001",
+        "full_name": " ayomide oladimeji",
+        "age": 18,
+        "gender": "male",
+        "class": "ss3"
+    },
+    {
+        "student_id" : "ST002",
+        "full_name" :" rasheed oladimeji",
+        "age" : "17",
+        "gender" : "male",
+        "class" : "ss3"
+    }
+]

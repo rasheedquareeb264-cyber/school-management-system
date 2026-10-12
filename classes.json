@@ -1,0 +1,10 @@
+[
+    {
+        "class_name" : "ss3",
+        "arm" : "A",
+        "assigned_teacher" : "C001",
+        "students" : [
+            "ST001"
+        ]
+    }
+]
